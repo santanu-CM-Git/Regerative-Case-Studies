@@ -6,7 +6,9 @@ Regenerative Medicine LA is a modern, responsive WordPress website built for a c
 
 ## Problem
 
-The primary challenge was a poorly optimized, layout-breaking banner section on mobile viewports. While the desktop layout functioned correctly, translating the intricate Figma designs across the site's various pages to mobile resulted in responsive layout issues. To fix this, standard approaches would rely on extra plugins, which would threaten the site's speed, bloat the codebase, and introduce potential plugin conflicts.
+- **Mobile Banner Issues:** The primary challenge was a poorly optimized, layout-breaking banner section on mobile viewports. While the desktop layout functioned correctly, translating the intricate Figma designs across the site's various pages to mobile resulted in responsive layout issues.
+- **Plugin Dependency Risks:** To fix this, standard approaches would rely on extra plugins, which would threaten the site's speed, bloat the codebase, and introduce potential plugin conflicts.
+
 
 ## Technology stack
 
